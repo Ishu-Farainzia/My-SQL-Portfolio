@@ -109,13 +109,15 @@ ShiftTime Range% of OrdersMorningBefore 12 PM42%Afternoon12–5 PM38%EveningAfte
 📂 Repository Structure
 -----------------------
 
-sql-retail-sales-analysis/  
-├── data/  
-│   └── retail_sales.csv  
-├── queries/  
-│   └── data_cleaning.sql 
-|   └── data_exploration.sql
-└── README.md   `
+sql-retail-sales-analysis/
+├── data/
+│   └── retail_sales.csv
+├── scripts/
+│   └── retail_sales_analysis.sql
+├── images/
+│   └── dashboard.png
+└── README.md
+ 
 
 🏁 Summary
 ----------
