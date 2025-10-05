@@ -248,13 +248,17 @@ FROM shift_cte
 GROUP BY shift;
 ```
 
-##📂 Repository Structure
+## 📂 Repository Structure
 
 sql-retail-sales-analysis/
+sql-retail-sales-analysis/
+│
 ├── data/
-│   └── retail_sales.csv
+│ └── retail_sales.csv
+│
 ├── queries/
-│   └── retail_sales_analysis.sql
+│ └── retail_sales_analysis.sql
+│
 └── README.md
 
 ## 📄 Deliverables
